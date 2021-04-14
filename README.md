@@ -1,8 +1,8 @@
-- 👋 Hi, I’m @esp-phudang
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+- 👋 Hi, I’m Phu
+- 👀 I’m interested in you ❤️
+- 🌱 I’m currently learning ReactJS, NextJS with Typescript
+- 💞️ I’m looking to collaborate a Design System where I can learn how do people create it
+- 📫 Reach me through my email: phu.dang@eastplayers.io
 
 <!---
 esp-phudang/esp-phudang is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
