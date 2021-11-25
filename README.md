@@ -1,5 +1,4 @@
 - 👋 Hi, I’m Phu
-- 👀 I’m interested in you ❤️
 - 🌱 I’m currently learning ReactJS, NextJS with Typescript
 - 💞️ I’m looking to collaborate a Design System where I can learn how do people create it
 - 📫 Reach me through my email: phu.dang@eastplayers.io
